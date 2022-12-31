@@ -1,0 +1,8 @@
+<div class="poll__title">Which Do you prefer?</div>
+<div class="poll__option">
+  <div class="poll__option-fill"></div>
+  <div class="poll__option-info">
+    <span class="poll__label">JavaScript</span>
+    <span class="poll__percentate">10%</span>
+  </div>
+</div>
